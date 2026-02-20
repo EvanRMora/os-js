@@ -2,7 +2,6 @@
 
 A Next.js boilerplate for building websites themed as a retro macOS-style desktop operating system. Features draggable windows, a dock, menu bar, mobile shell, and theme switching.
 
-**Extracted from**: Habit Coffee Roasters ([habitcoffee](../Coffee/habitcoffee))
 
 ---
 
@@ -238,4 +237,4 @@ This is handled automatically by `useIsMobile()` in `os-home-page.tsx`.
 
 ## Origin
 
-This boilerplate was extracted from the Habit Coffee Roasters website, which uses a "Coffee OS" retro desktop metaphor. The generic OS shell, window system, dock, menu bar, and mobile shell are all reusable across any site. The business-specific content windows (shop, cart, newsletter) were replaced with generic starters (welcome, about, contact, settings).
+This boilerplate was developed by me as a companion library for Habit Coffee Roasters (www.habitcoffeeroasters.com), which uses a "Coffee OS" retro desktop metaphor. The generic OS shell, window system, dock, menu bar, and mobile shell are all reusable across any site. The business-specific content windows (shop, cart, newsletter) were replaced with generic starters (welcome, about, contact, settings).
